@@ -1,7 +1,7 @@
 <a href="https://twitter.com/mccarlosen" target="_blank" rel="nofollow"><img align="right" alt="Carlos Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/prof-carlos-meneses/" target="_blank" rel="nofollow"><img align="right" alt="Carlos Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 ## Hi, my name is Carlos 😎
-<p>I have been a full-stack web developer since 2010. During this time I have worked in different environments, from educational, publishing companies to cooperative companies; which have allowed me to enrich my knowledge and experience with very challenging projects. I am self taught and I love to solve problems.</p>
+<p>I am PHP full-stack web developer. I work with laravel and laravel livewire, but also with frameworks like Vue and React. I manage application deployment in Amazon Web Services and Digital Ocean environments and I am always willing to continue learning new technologies and ways of doing things.</p>
 
 <b>My Github Stats</b>:
 <p align = "center">
