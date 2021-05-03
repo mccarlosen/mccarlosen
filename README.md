@@ -1,7 +1,9 @@
 <a href="https://twitter.com/mccarlosen" target="_blank" rel="nofollow"><img align="right" alt="Carlos Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/prof-carlos-meneses/" target="_blank" rel="nofollow"><img align="right" alt="Carlos Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 ## Hi, my name is Carlos 😎
-<p>I am PHP full-stack web developer. I work with laravel and laravel livewire, but also with frameworks like Vue and React. I manage application deployment in Amazon Web Services and Digital Ocean environments and I am always willing to continue learning new technologies and ways of doing things.</p>
+<p>Passionate about the PHP language with extensive experience in building administrative systems, websites and e-commerce, videoconferencing platforms with the use of WebRTC technologies (Amazon Chime, Eyeson, etc.). He has extensive knowledge in backend and frontend languages and technologies such as PHP, Laravel Framework, Laravel Livewire, Wordpress, OctoberCMS, Linux, Bash, NodeJS, Firebase, MySQL, PostgreSQL, Javascript, AlpineJS, Vue, React, CSS, SASS, TailwindCSS. Also, in the configuration and deployment of applications in server environments within Amazon Web Services and Digital Ocean.</p>
+
+<p>Among other skills, he is a teamwork enthusiast, leader, and self-taught ...</p>
 
 <b>My Github Stats</b>:
 <p align = "center">
