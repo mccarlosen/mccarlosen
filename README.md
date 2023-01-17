@@ -10,8 +10,8 @@
 
 <p>Among other skills, he is a teamwork enthusiast, leader, and self-taught ...</p>
 
-<b>My Github Stats</b>:
-<!--<p align="center">
+<!--<b>My Github Stats</b>:
+<p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=mccarlosen&include_all_commits=true&count_private=true&show_icons=true&hide_border=false&title_color=fff&icon_color=F7CE3E&text_color=9f9f9f&line_height=24&bg_color=0A1612&layout=compact">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mccarlosen&layout=compact&langs_count=8&title_color=fff&text_color=9f9f9f&bg_color=0A1612&custom_title=Top Langs">
 </p>-->
