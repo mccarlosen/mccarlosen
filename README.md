@@ -6,7 +6,7 @@
 </a>
 
 ## Hi, my name is Carlos 😎
-<p>Passionate about the PHP language with extensive experience in building administrative systems, websites and e-commerce, videoconferencing platforms with the use of WebRTC technologies (Amazon Chime, Eyeson, etc.). He has extensive knowledge in backend and frontend languages and technologies such as PHP, Laravel Framework, Laravel Livewire, Wordpress, OctoberCMS, Linux, Bash, NodeJS, Firebase, MySQL, PostgreSQL, Javascript, AlpineJS, Vue, React, CSS, SASS, TailwindCSS. Also, in the configuration and deployment of applications in server environments within Amazon Web Services and Digital Ocean.</p>
+<p>Passionate about the PHP language with extensive experience in building administrative systems, websites and e-commerce, videoconferencing platforms with the use of WebRTC technologies Amazon Chime and Eyeson. He has extensive knowledge in backend and frontend languages and technologies such as PHP, Laravel, Laravel Livewire, Laravel Splade, Wordpress, Linux, Bash, NodeJS, MySQL, PostgreSQL, Javascript, AlpineJS, Vue, React, CSS, TailwindCSS. Also, in the configuration and deployment of applications in server environments within Amazon Web Services and Digital Ocean.</p>
 
 <p>Among other skills, he is a teamwork enthusiast, leader, and self-taught ...</p>
 
