@@ -12,7 +12,7 @@
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=mccarlosen&show_icons=true&theme=merko&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mccarlosen&hide=java,html&show_icons=true&theme=merko">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mccarlosen&hide=java,html&show_icons=true&theme=merko&layout=compact">
 </p>
 <!--<b>My Github Stats</b>:
 <p align="center">
