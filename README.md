@@ -14,6 +14,10 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=mccarlosen&show_icons=true&theme=merko&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mccarlosen&hide=java,html&show_icons=true&theme=merko&layout=compact">
 </p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mccarlosen&layout=compact">
+</p>
 <!--<b>My Github Stats</b>:
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=mccarlosen&include_all_commits=true&count_private=true&show_icons=true&hide_border=false&title_color=fff&icon_color=F7CE3E&text_color=9f9f9f&line_height=24&bg_color=0A1612&layout=compact">
