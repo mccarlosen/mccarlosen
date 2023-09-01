@@ -11,8 +11,8 @@
 <p>Among other skills, he is a teamwork enthusiast, leader, and self-taught ...</p>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=mccarlosen&show_icons=true&theme=dracula&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mccarlosen&hide=java,html&show_icons=true&theme=dracula">
+  <img src = "https://github-readme-stats.vercel.app/api?username=mccarlosen&show_icons=true&theme=merko&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mccarlosen&hide=java,html&show_icons=true&theme=merko">
 </p>
 <!--<b>My Github Stats</b>:
 <p align="center">
