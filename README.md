@@ -13,7 +13,7 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=mccarlosen&show_icons=true&theme=merko&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mccarlosen&hide=java,html&show_icons=true&theme=merko&layout=compact">
-  <img src="https://wakatime.com/share/@mccarlosen/ec31407f-7932-4bf9-8934-121a440ef2fd.svg" width="400px" />
+  <img src="https://wakatime.com/share/@mccarlosen/ec31407f-7932-4bf9-8934-121a440ef2fd.svg" width="600px" />
 </p>
 
 <!--<b>My Github Stats</b>:
