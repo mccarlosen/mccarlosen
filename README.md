@@ -2,7 +2,7 @@
   <img align="right" alt="Carlos Linkedin" width="22px" src="https://carlosmeneses.com/linkedin-icon.svg" />
 </a>
 <a href="https://www.linkedin.com/in/prof-carlos-meneses/" target="_blank" rel="nofollow">
-  <img align="right" alt="Carlos Twitter" width="22px" src="https://carlosmeneses.com/twitter-icon.svg" />
+  <img align="right" alt="Carlos Twitter" width="22px" src="https://carlosmeneses.com/x-social-media-icon.svg" />
 </a>
 
 ## Hi, my name is Carlos 😎
